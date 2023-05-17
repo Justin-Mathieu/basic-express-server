@@ -11,9 +11,8 @@ Problem Domain
 
 ## Links and Resources
 
-- GitHub Actions ci/cd
-- back-end dev server url
-- back-end prod server url
+- [GitHub Actions](https://github.com/Justin-Mathieu/basic-express-server/actions)
+- [back-end prod url](https://basic-express-server-3vce.onrender.com)
 
 ## Collaborators
 
